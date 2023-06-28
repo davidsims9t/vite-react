@@ -1,7 +1,7 @@
 {
-  "name": "@davidsims9t/vite-react",
+  "name": "@davidsims9t/easy-tests",
   "version": "1.0.0",
-  "description": "Vite React fun",
+  "description": "An easy way to keep track of medical tests",
   "main": "index.js",
   "type": "module",
   "dependencies": {
